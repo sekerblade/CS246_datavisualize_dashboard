@@ -17,7 +17,7 @@ alt.themes.enable("dark")
 
 #######################
 # Load data
-df_reshaped = pd.read_csv('แบบสำรวจสวัสดิการและสิ่งอำนวยความสะดวกภายในมหาวิทยาลัยธรรมศาตร์ ศูนย์รังสิต (Responses) (3).xlsx - Form Responses 1 (2).csv')
+df_reshaped = pd.read_csv('แบบสำรวจสวัสดิการและสิ่งอำนวยความสะดวก_มธ.csv')
 
 #######################
 # Sidebar
